@@ -1,0 +1,5 @@
+//renomear .env
+
+module.exports = {
+    auth.Secret: ''
+}
